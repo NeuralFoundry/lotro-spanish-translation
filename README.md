@@ -51,7 +51,7 @@ Puedes avisar en la sección [Issues](https://github.com/NeuralFoundry/lotro-spa
 
 ### Aviso legal
 
-Este proyecto es una obra no oficial hecha por fans. No tiene relación con Standing Stone Games, Daybreak Game Company ni Middle-earth Enterprises. The Lord of the Rings Online y los nombres relacionados son marcas comerciales de sus respectivos propietarios. Este repositorio no contiene los textos originales del juego. La traducción modifica el archivo de idioma del juego en tu ordenador. La usas bajo tu propia responsabilidad.
+Este proyecto es una obra no oficial hecha por fans. No tiene relación con Standing Stone Games, Daybreak Game Company ni Middle-earth Enterprises. The Lord of the Rings Online y los nombres relacionados son marcas comerciales de sus respectivos propietarios. Este repositorio no contiene los textos originales del juego. La traducción modifica el archivo de idioma del juego en tu PC. La usas bajo tu propia responsabilidad.
 
 ## English
 
