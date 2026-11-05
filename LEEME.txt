@@ -1,0 +1,22 @@
+LOTRO en Español
+
+Instalación
+1. Cierra el juego y el launcher.
+2. Haz doble clic en Instalar.cmd. Si Windows pide permiso, responde Sí.
+3. Cuando veas "Instalación completada", inicia el juego como siempre.
+
+Desinstalación
+Cierra el juego y haz doble clic en Desinstalar.cmd.
+
+Si después de una actualización del juego algunos textos vuelven a aparecer en inglés, ejecuta Instalar.cmd de nuevo.
+
+Ayuda y detalles: https://github.com/NeuralFoundry/lotro-spanish-translation
+
+
+LOTRO Spanish Translation
+
+Install: close the game and the launcher, then double-click Instalar.cmd.
+Uninstall: close the game, then double-click Desinstalar.cmd.
+After a game update, run Instalar.cmd again.
+
+Help and details: https://github.com/NeuralFoundry/lotro-spanish-translation
